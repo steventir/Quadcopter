@@ -1,0 +1,14 @@
+First you start with 
+ls
+
+Then you go to your directory :
+cd Development/Quadcopter		//If you tap Devl (PRESS TAB), it should auto complete the directory path for you
+
+If you have added any files and you want to put in to GitHub, now that you are in the right directory you can do this :
+
+git pull										//that is pulling from the GitHub repository
+git add .									// the . is your current directory.	Adding to the local repository
+git commit -m " any comment here"  // commiting to the GitHub repository
+git push										// pushing to the GitHub repository
+
+Done.
